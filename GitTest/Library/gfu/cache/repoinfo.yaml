@@ -13,8 +13,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 1
-  lastUpdatedAtString: 2020-06-23T15:48:48.626+02:00
-  initializedAtString: 2020-06-23T14:16:54.898+02:00
+  lastUpdatedAtString: 2020-06-29T12:17:45.350+02:00
+  initializedAtString: 2020-06-29T12:17:45.350+02:00
   currentGitRemote:
     name: origin
     url: https://github.com/lrndrs/unitytest.git
