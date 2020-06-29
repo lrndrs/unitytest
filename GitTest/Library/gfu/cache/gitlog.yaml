@@ -13,9 +13,177 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 3
-  lastUpdatedAtString: 2020-06-23T15:39:54.528+02:00
+  lastUpdatedAtString: 2020-06-23T15:48:50.121+02:00
   initializedAtString: 2020-06-23T15:36:49.787+02:00
   log:
+  - commitID: 200e98800195d79a5265e6ad4716912b1d9e2403
+    mergeA: 
+    mergeB: 
+    authorName: lrndrs
+    authorEmail: endreslaura@gmail.com
+    commitEmail: endreslaura@gmail.com
+    commitName: lrndrs
+    summary: init
+    description: 
+    timeString: 2020-06-23T15:47:15.000+02:00
+    commitTimeString: 2020-06-23T15:47:15.000+02:00
+    changes:
+    - path: GitTest/Assets/_Completed-Game/Roll-a-ball.unity
+      fullPath: /Users/lau/unitygit/unitytest/GitTest/Assets/_Completed-Game/Roll-a-ball.unity
+      projectPath: Assets/_Completed-Game/Roll-a-ball.unity
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: GitTest/Library/APIUpdater/project-dependencies.graph
+      fullPath: /Users/lau/unitygit/unitytest/GitTest/Library/APIUpdater/project-dependencies.graph
+      projectPath: Library/APIUpdater/project-dependencies.graph
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: GitTest/Library/SceneVisibilityState.asset
+      fullPath: /Users/lau/unitygit/unitytest/GitTest/Library/SceneVisibilityState.asset
+      projectPath: Library/SceneVisibilityState.asset
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: GitTest/Library/ScriptAssemblies/Assembly-CSharp-Editor-firstpass.dll
+      fullPath: /Users/lau/unitygit/unitytest/GitTest/Library/ScriptAssemblies/Assembly-CSharp-Editor-firstpass.dll
+      projectPath: Library/ScriptAssemblies/Assembly-CSharp-Editor-firstpass.dll
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: GitTest/Library/ScriptAssemblies/Assembly-CSharp.dll
+      fullPath: /Users/lau/unitygit/unitytest/GitTest/Library/ScriptAssemblies/Assembly-CSharp.dll
+      projectPath: Library/ScriptAssemblies/Assembly-CSharp.dll
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: GitTest/Library/ScriptAssemblies/BuiltinAssemblies.stamp
+      fullPath: /Users/lau/unitygit/unitytest/GitTest/Library/ScriptAssemblies/BuiltinAssemblies.stamp
+      projectPath: Library/ScriptAssemblies/BuiltinAssemblies.stamp
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: GitTest/Library/ScriptAssemblies/Unity.Analytics.DataPrivacy.dll
+      fullPath: /Users/lau/unitygit/unitytest/GitTest/Library/ScriptAssemblies/Unity.Analytics.DataPrivacy.dll
+      projectPath: Library/ScriptAssemblies/Unity.Analytics.DataPrivacy.dll
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: GitTest/Library/ScriptAssemblies/Unity.CollabProxy.Editor.dll
+      fullPath: /Users/lau/unitygit/unitytest/GitTest/Library/ScriptAssemblies/Unity.CollabProxy.Editor.dll
+      projectPath: Library/ScriptAssemblies/Unity.CollabProxy.Editor.dll
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: GitTest/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll
+      fullPath: /Users/lau/unitygit/unitytest/GitTest/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll
+      projectPath: Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: GitTest/Library/ScriptAssemblies/Unity.TextMeshPro.dll
+      fullPath: /Users/lau/unitygit/unitytest/GitTest/Library/ScriptAssemblies/Unity.TextMeshPro.dll
+      projectPath: Library/ScriptAssemblies/Unity.TextMeshPro.dll
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: GitTest/Library/ScriptAssemblies/Unity.Timeline.Editor.dll
+      fullPath: /Users/lau/unitygit/unitytest/GitTest/Library/ScriptAssemblies/Unity.Timeline.Editor.dll
+      projectPath: Library/ScriptAssemblies/Unity.Timeline.Editor.dll
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: GitTest/Library/ScriptAssemblies/Unity.Timeline.dll
+      fullPath: /Users/lau/unitygit/unitytest/GitTest/Library/ScriptAssemblies/Unity.Timeline.dll
+      projectPath: Library/ScriptAssemblies/Unity.Timeline.dll
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: GitTest/Library/ScriptAssemblies/UnityEditor.SpatialTracking.dll
+      fullPath: /Users/lau/unitygit/unitytest/GitTest/Library/ScriptAssemblies/UnityEditor.SpatialTracking.dll
+      projectPath: Library/ScriptAssemblies/UnityEditor.SpatialTracking.dll
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: GitTest/Library/ScriptAssemblies/UnityEditor.XR.LegacyInputHelpers.dll
+      fullPath: /Users/lau/unitygit/unitytest/GitTest/Library/ScriptAssemblies/UnityEditor.XR.LegacyInputHelpers.dll
+      projectPath: Library/ScriptAssemblies/UnityEditor.XR.LegacyInputHelpers.dll
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: GitTest/Library/ScriptAssemblies/UnityEngine.SpatialTracking.dll
+      fullPath: /Users/lau/unitygit/unitytest/GitTest/Library/ScriptAssemblies/UnityEngine.SpatialTracking.dll
+      projectPath: Library/ScriptAssemblies/UnityEngine.SpatialTracking.dll
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: GitTest/Library/ScriptAssemblies/UnityEngine.XR.LegacyInputHelpers.dll
+      fullPath: /Users/lau/unitygit/unitytest/GitTest/Library/ScriptAssemblies/UnityEngine.XR.LegacyInputHelpers.dll
+      projectPath: Library/ScriptAssemblies/UnityEngine.XR.LegacyInputHelpers.dll
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: GitTest/Library/ScriptAssemblies/com.unity.multiplayer-hlapi.Editor.dll
+      fullPath: /Users/lau/unitygit/unitytest/GitTest/Library/ScriptAssemblies/com.unity.multiplayer-hlapi.Editor.dll
+      projectPath: Library/ScriptAssemblies/com.unity.multiplayer-hlapi.Editor.dll
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: GitTest/Library/ScriptAssemblies/com.unity.multiplayer-hlapi.Runtime.dll
+      fullPath: /Users/lau/unitygit/unitytest/GitTest/Library/ScriptAssemblies/com.unity.multiplayer-hlapi.Runtime.dll
+      projectPath: Library/ScriptAssemblies/com.unity.multiplayer-hlapi.Runtime.dll
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: GitTest/Library/ScriptAssemblies/com.unity.multiplayer-weaver.Editor.dll
+      fullPath: /Users/lau/unitygit/unitytest/GitTest/Library/ScriptAssemblies/com.unity.multiplayer-weaver.Editor.dll
+      projectPath: Library/ScriptAssemblies/com.unity.multiplayer-weaver.Editor.dll
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: GitTest/Library/ShaderCache/EditorEncounteredVariants
+      fullPath: /Users/lau/unitygit/unitytest/GitTest/Library/ShaderCache/EditorEncounteredVariants
+      projectPath: Library/ShaderCache/EditorEncounteredVariants
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: GitTest/Library/gfu/cache/branches.yaml
+      fullPath: /Users/lau/unitygit/unitytest/GitTest/Library/gfu/cache/branches.yaml
+      projectPath: Library/gfu/cache/branches.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: GitTest/Library/gfu/cache/gitlocks.yaml
+      fullPath: /Users/lau/unitygit/unitytest/GitTest/Library/gfu/cache/gitlocks.yaml
+      projectPath: Library/gfu/cache/gitlocks.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: GitTest/Library/gfu/cache/gitlog.yaml
+      fullPath: /Users/lau/unitygit/unitytest/GitTest/Library/gfu/cache/gitlog.yaml
+      projectPath: Library/gfu/cache/gitlog.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: GitTest/Library/gfu/cache/gitstatusentries.yaml
+      fullPath: /Users/lau/unitygit/unitytest/GitTest/Library/gfu/cache/gitstatusentries.yaml
+      projectPath: Library/gfu/cache/gitstatusentries.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: GitTest/Library/gfu/cache/gittrackingstatus.yaml
+      fullPath: /Users/lau/unitygit/unitytest/GitTest/Library/gfu/cache/gittrackingstatus.yaml
+      projectPath: Library/gfu/cache/gittrackingstatus.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: GitTest/Library/gfu/cache/gituser.yaml
+      fullPath: /Users/lau/unitygit/unitytest/GitTest/Library/gfu/cache/gituser.yaml
+      projectPath: Library/gfu/cache/gituser.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
   - commitID: 83f1a0147bcee74dcb3d45fcea86bd3bb528eb48
     mergeA: 
     mergeB: 
